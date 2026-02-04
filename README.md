@@ -11,3 +11,4 @@ Open source MAX (max.ru) messenger server written in JS.
 <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/2fc3b034-3de8-4da8-9819-107cfa67a0a8" />
 
 
+## Created by @slavic0099 (my telegram username)
