@@ -28,9 +28,10 @@ MyMAX is a fully compatible MAX client server written in JavaScript.
 ## Preview
 <img width="1920" height="956" alt="image" src="https://github.com/user-attachments/assets/47f47cb1-7463-4d9f-8e73-616ca7fc6890" />
 
-<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/aebfecfa-3426-4780-bfda-45c2945c8183" />
+<img width="1332" height="953" alt="image" src="https://github.com/user-attachments/assets/a9146412-774c-4852-9220-3723f56baaba" />
 
-<img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/2fc3b034-3de8-4da8-9819-107cfa67a0a8" />
+<img width="1266" height="895" alt="image" src="https://github.com/user-attachments/assets/4977e1ad-2fa2-4934-93d7-0b2f77344c8d" />
+
 
 
 
