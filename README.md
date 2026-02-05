@@ -21,11 +21,11 @@ MyMAX is a fully compatible MAX client server written in JavaScript.
 - fully functional settings
 - and much more...
 
-Contact me - [Telegram](https://t.me/slavic0099)
+# Contact me - [Telegram](https://t.me/slavic0099)
 
 # The source code will be available a bit later, I'm currently working on the server.
 
-# Preview
+## Preview
 <img width="1920" height="956" alt="image" src="https://github.com/user-attachments/assets/47f47cb1-7463-4d9f-8e73-616ca7fc6890" />
 
 <img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/aebfecfa-3426-4780-bfda-45c2945c8183" />
