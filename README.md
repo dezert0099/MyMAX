@@ -4,12 +4,9 @@ Open source MAX (max.ru) messenger server written in JS.
 MyMAX is a fully compatible MAX client server written in JavaScript.
 
 # Features
-## Free version
 - account registration / login
 - fully functional chats
 - profile editing
-
-## Pro version
 - channels
 - animoji (animated emoji)
 - sending media files
